@@ -1,0 +1,17 @@
+ReNt nomembers nobooks
+ReLiNqUiSh nomembers nobooks
+add member member1
+rent memberexists nobooks
+relinquish memberexists nobooks
+add collection collection.csv
+rent nosuchmember 111111
+relinquish nosuchmember 111111
+rent 100000 nosuchbook
+relinquish 100000 nosuchbook
+relinquish 100000 111111
+rent 100000 111111
+rent 100000 111111
+relinquish 100000 111111
+exit
+
+

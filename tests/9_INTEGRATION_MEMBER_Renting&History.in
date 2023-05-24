@@ -1,0 +1,18 @@
+MeMbEr BoOkS nomembers
+MeMbEr HiStOry nomembers
+add member Nam Kim
+member books nosuchmember
+member history nosuchmember
+member books 100000
+member history 100000
+add collection collection.csv
+rent 100000 111113
+rent 100000 111112
+rent 100000 111111
+member books 100000
+relinquish 100000 111112
+member books 100000
+relinquish all 100000
+member books 100000
+member history 100000
+exit

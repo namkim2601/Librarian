@@ -1,0 +1,23 @@
+CoMmOn nomembers
+add member member1
+add member member2
+add member member3
+common nobooks
+add collection collection.csv
+common 100000 100001 nosuchmember
+common 100000 100000 100001
+common 100000 100001 100002
+rent 100000 111111
+rent 100000 111119
+rent 100000 111112
+relinquish all 100000
+rent 100001 111118
+rent 100001 111111
+rent 100001 111112
+relinquish all 100001
+rent 100002 111111
+rent 100002 111112
+rent 100002 111117
+relinquish all 100002
+common 100000 100001 100002
+exit

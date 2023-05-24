@@ -1,0 +1,15 @@
+LiSt AlL
+list all lOnG
+BoOk 111111
+book 111111 lOnG
+aDd BoOk shouldntexist.csv 999999
+add book collection.csv 999999
+add book collection.csv 111111
+add book collection.csv 111111
+add book collection.csv 111112
+list all
+list all long
+book 111113
+book 111111
+book 111112 long
+exit
